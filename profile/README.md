@@ -1,12 +1,13 @@
 # 🙋‍ 2022.2 - Módulo IoT - Turma 2 - Beacon School
-## 🔍 O problema:
 
+## 🔍 O problema:
+Dificuldade em gerir os equipamentos de tecnologia que são emprestados a alunos, professores e colaboradores da escola, gerando prejuízos financeiros e riscos à segurança da informação.
 
 ## 🎯 O objetivo:
-
+Permitir melhor controle dos ativos, identificando a sua localização dentro da escola.
 
 ## 🧩 O público-alvo:
-
+Gestores e alunos da instituição.
 
 ## 💻 Solução IoT:
 
